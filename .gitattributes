@@ -1,0 +1,16 @@
+# Autodetect text files
+* text=auto
+
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.zsh text eol=lf
+*.txt text eol=lf
+
+.editorconfig text eol=lf
+.gitattributes text eol=lf
+.zshrc text eol=lf
+
+functions/* text eol=lf
+git_template/* text eol=lf
